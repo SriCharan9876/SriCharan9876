@@ -79,7 +79,7 @@
 
 | Project | Description |
 |--------|------------|
-| 💡 Circuit Crafter | Designing Circuits by LTSpice `.asc` auto-generation with backend processing |
+| 💡 Circuit Crafter | Web platform to explore, create, design and generate circuits files|
 | 📊 Movie Recommendation System | Movie Recommendations by sentiment analysis and collaborative filtering  |
 | 🔐 Smart Bicycle Locker Ecosystem | Real-time ride tracking + routing + scalable backend |
 | 👶 Smart Cradle | IoT-powered Infant Monitoring System with ML-enabled motion anomaly analysis, and real-time web visualization |
